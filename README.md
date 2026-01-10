@@ -8,7 +8,13 @@ The purpose of this software is to build familiarity with Python, practice using
 
 Software demonstration and walkthrough video:
 
-[Software Demo Video]
+[Software Demo Video Links
+
+1-Minute Demo Video (Hello World Demo & Code Walkthrough)
+https://youtu.be/dMRkDRqRY3M?si=Glt3wOO8tWGaFeEB
+
+Backup / Second Video (optional)
+https://youtu.be/zJIX7GQSOFo?si=0adLr_Z0xge5eClb]
 
 # Development Environment
 
