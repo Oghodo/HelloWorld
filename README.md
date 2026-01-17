@@ -6,7 +6,7 @@ This software is a simple Python program that prints the classic message "Hello 
 
 The purpose of this software is to build familiarity with Python, practice using GitHub for version control, and develop confidence in creating and sharing software projects.
 
-Software demonstration and walkthrough video: 
+Software demonstration and walkthrough video: https://www.loom.com/share/00c0995d25ba4df5ad114e34b650788e
 
 [Software Demo Video Links
 
